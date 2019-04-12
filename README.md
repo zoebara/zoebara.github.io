@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Zoe Bara's Website and Online Portfolio!
 
-You can use the [editor on GitHub](https://github.com/zoebara/zoebara.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zoebara/zoebara.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### As of April 10th, 2019, this website is a new project for me that I hope will develop in programming complexity as I learn and apply more with WebDev. Here are some content things that you should hopefully see soon on this webpage: 
+- Educational Background
+- Job Experience 
+- Career Goals and Ideals
+- Ongoing Projects
+- Contact Information
+- Possibly a Blog
+- and more!
+#### Please be mindful that I am a full-time student and that this is a side-project for me at the moment. I hope to work on this as much as I can, but it will always be a work in progress. Feel free to contact me with any questions, comments, or concerns that you may have regarding this site. 
