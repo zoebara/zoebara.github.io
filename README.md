@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Welcome to Zoe Bara's Website and Online Portfolio!
 
 #### As of April 10th, 2019, this website is a new project for me that I hope will develop in programming complexity as I learn and apply more with WebDev. Here are some content things that you should hopefully see soon on this webpage: 
