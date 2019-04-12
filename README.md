@@ -8,4 +8,5 @@
 - Contact Information
 - Possibly a Blog
 - and more!
+
 #### Please be mindful that I am a full-time student and that this is a side-project for me at the moment. I hope to work on this as much as I can, but it will always be a work in progress. Feel free to contact me with any questions, comments, or concerns that you may have regarding this site. 
